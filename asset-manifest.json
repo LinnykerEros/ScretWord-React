@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScretWord-React/static/css/main.50d62838.css",
+    "main.js": "/ScretWord-React/static/js/main.e3451590.js",
+    "static/js/787.f9ab9baa.chunk.js": "/ScretWord-React/static/js/787.f9ab9baa.chunk.js",
+    "index.html": "/ScretWord-React/index.html",
+    "main.50d62838.css.map": "/ScretWord-React/static/css/main.50d62838.css.map",
+    "main.e3451590.js.map": "/ScretWord-React/static/js/main.e3451590.js.map",
+    "787.f9ab9baa.chunk.js.map": "/ScretWord-React/static/js/787.f9ab9baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d62838.css",
+    "static/js/main.e3451590.js"
+  ]
+}
