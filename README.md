@@ -1,4 +1,4 @@
-<h1>Projeto ScretWord</h1>
+<h1>Projeto ScretWord-React</h1>
 
 <h2>Sobre</h2>
 <p> <strong>Fiz esse projeto com o intuito de aprender mais sobre o React, como componentização, hooks etc. </strong></p>
@@ -8,10 +8,10 @@
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/LinnykerEros/ScretWord.git
+$ git clone https://github.com/LinnykerEros/ScretWord-React.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ScretWord
+$ cd ScretWord-React
 
 # Instale as dependências
 $ npm install
